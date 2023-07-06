@@ -102,7 +102,7 @@ If fails, the LED will not flash.
 ### WebSerial (Esp only)
 Examples with webserial console and OTA Wifi.   
 Allows you to configure and check completely remotely by wifi!  
-Note: it is possible to use this circuit for other serial applications. For example, I also use mine to set up a Xiaoxiang Smart BMS by Bluethoot :wink:
+Note: it is possible to use this circuit for other serial applications. For example, I also use mine to set up a Xiaoxiang Smart BMS by PC Bluethoot :wink:
 - [BBS_webserial_cmd](./examples)
 
 <p align="left">
