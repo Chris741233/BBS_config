@@ -1,5 +1,9 @@
 # BBS_config
 
+<p align="left">
+  <img src="./docs/bafang_bbs.jpg" width="200" title="Pico">
+</p>
+
 Arduino/ESP library to facilitate the configuration of a Bafang BBSxx electric bike, including several complete examples.
 As a bonus you will also find spreadsheet for generating or verifying complete BBSxx frames. :wink:  
 
