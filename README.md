@@ -3,7 +3,8 @@
 Arduino/ESP library to facilitate the configuration of a Bafang BBSxx electric bike, including several complete examples.
 As a bonus you will also find spreadsheet for generating or verifying complete BBSxx frames. :wink:  
 
-Note: It is advisable to learn a little about Bafang BBS, for example on electric bike forums.
+Note: It is advisable to learn a little about Bafang BBS, for example on electric bike forums.  
+In your file "BbsSetting.h" the constant names are the same as in Penoff's software: [Penoff BBS-tool](https://penoff.me/tag/bafang/)
 
 ## How to use the library
 Download the source, unzip and install in your Arduino library folder.
