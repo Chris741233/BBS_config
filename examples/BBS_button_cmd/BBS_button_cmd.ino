@@ -50,11 +50,11 @@ Warning : if ESP32, use a level conversion (simply diode with resistor) for RX E
 // All your settings for your Bafang BBSxx (this file must be in the same folder as this sketch)
 #include "BbsSetting.h" 
 
-// -- objet Serial2 BBS_config
+// -- objet BBS_config
 BBS_config bbs; 
 
 
-// --- GPIO and init object ---- 
+// --- GPIO and init Serial object (SerialBbs) ---- 
 #if USE_ESP32
     // ESP32
     const int RX2_PIN    = 16;  // RX Serial2 (16 default esp32)

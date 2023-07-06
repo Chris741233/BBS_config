@@ -79,7 +79,7 @@ CRGB leds[NUM_LEDS];    // Define the array of leds
 // --- INIT OBJECT ----
 
 HardwareSerial SerialBbs(2);  // init Serial2 
-BBS_config bbs;               // objet Serial2 BBS_config
+BBS_config bbs;               // objet BBS_config
 
 AsyncWebServer server(80);    // port for WebSerial
 
