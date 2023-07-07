@@ -89,6 +89,10 @@ To go further, see the complete examples
 ## Examples 
 :file_folder: (more images and documents see the /docs folder)
 
+<p align="left">
+  <img src="./docs/bbs_webserial_esp32/diagram_higo_bbs.jpg" width="500" title="Pico">
+</p>
+
 ### Simple sketch with Led and button (Arduino/Esp)
 Minimum version: Modify or check your configuration file "BbsSetting.h" A short press of the button will transmit the new settings to your controller. If successful, the led will flash several times quickly!  
 If fails, the LED will not flash.  
@@ -102,7 +106,7 @@ If fails, the LED will not flash.
 ### WebSerial (Esp only)
 Examples with webserial console and OTA Wifi.   
 Allows you to configure and check completely remotely by wifi!  
-Note: it is possible to use this circuit for other serial applications. For example, I also use mine to set up a Xiaoxiang Smart BMS by PC Bluethoot :wink:
+Note: it is possible to use this circuit for other serial bridge applications. For example, I also use mine to set up a Xiaoxiang Smart BMS by Bluethoot and PC xiaoxiang software. 
 - [BBS_webserial_cmd](./examples)
 
 <p align="left">
@@ -123,7 +127,7 @@ Spreadsheet for generating or verifying complete BBSxx frames. There is also a l
   <img src="./docs/Excel/screen_basic.jpg" width="600" title="Excel">
 </p>
 
-Long live BBSxx! :blush:
+
 
 
 
