@@ -13,7 +13,7 @@ In the "BbsSetting.h" configuration file, the names used in the comments are the
 ## How to use the library
 Download the source, unzip and install in your Arduino library folder.
 
-### header 
+### header of your sketch
 
 ```
 #define USE_ESP32 1  // Choose: 1=ESP32, 0=Arduino Uno/Nano
