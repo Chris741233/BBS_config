@@ -59,7 +59,7 @@ BBS_config bbs;
     // ESP32
     const int RX2_PIN    = 16;  // RX Serial2 (16 default esp32)
     const int TX2_PIN    = 17;  // TX Serial2 (17 default esp32)
-    const int BUTTON_PIN =  2;  // Button, to send reprog  
+    const int BUTTON_PIN = 33;  // Button, to send reprog  
     const int LED_PIN    = 26;  // LED control            
     
     HardwareSerial SerialBbs(2);      
