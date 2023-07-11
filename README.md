@@ -10,6 +10,13 @@ As a bonus you will also find spreadsheet for generating or verifying complete B
 Note: It is advisable to learn a little about Bafang BBS, for example on electric bike forums.  
 In the "BbsSetting.h" configuration file, the names used in the comments are the same as in Penoff's software: [Penoff BBS-tool](https://penoff.me/tag/bafang/)
 
+#### Note
+> *Be advised! Doing any changes to your controller might lead to damage.*  
+*I won’t be held responsible for any kind of damage you might induce to your controller, motor, gears, bicycle or yourself.* 
+*Do what you like at your own risk!* 
+
+
+---
 ## How to use the library
 Download the source, unzip and install in your Arduino library folder.
 
@@ -127,6 +134,8 @@ Spreadsheet for generating or verifying complete BBSxx frames. There is also a l
   <img src="./docs/Excel/screen_basic.jpg" width="600" title="Excel">
 </p>
 
+
+--- 
 
 
 
