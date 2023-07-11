@@ -113,7 +113,8 @@ If fails, the LED will not flash.
 ### WebSerial (Esp only)
 Examples with webserial console and OTA Wifi.   
 Allows you to configure and check completely remotely by wifi!  
-Note: it is possible to use this circuit for other serial bridge applications. For example, I also use mine to set up a Xiaoxiang Smart BMS by Bluethoot and PC xiaoxiang software. 
+Note: it is possible to use this circuit for other serial bridge applications. For example, I also use mine to set up a JBD Smart-BMS by Bluethoot and PC JBDtools software, see [bridge Serial2 to BT](https://github.com/Chris741233/Bridge_Serial2_to_BT) 
+
 - [BBS_webserial_cmd](./examples)
 
 <p align="left">
